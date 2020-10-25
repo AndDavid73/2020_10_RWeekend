@@ -1,12 +1,12 @@
-#Taller: R desde cero - Parte 1: Tipos de datos
+#Curso: R desde cero - Parte 1: Tipos de datos
 #Autor: Anderson David Collaguaso 
 #Fecha: 2020-10-24
 #Detalles: 
 #En este script veremos los diferentes tipos de datos que podemos manipular
-#en R. Practicaremos también cómo crear variables.
+#en R. Practicaremos tambien como crear variables.
 
 # Caracteres --------------------------------------------------------------
-"Juan"
+"David"
 "Este es un conjunto de caracteres"
 
 # Datos numéricos ---------------------------------------------------------
